@@ -1,2 +1,2 @@
 # Hosting portfolio
-https:/www.gtang.ca
+www.gtang.ca
