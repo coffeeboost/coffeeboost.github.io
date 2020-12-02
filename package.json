@@ -1,6 +1,6 @@
 {
-  "homepage":"http://{username}.github.io/portfolioDev",
-  "name": "portfolioDev",
+  "homepage":"http://coffeeboost.github.io/portfolioHost",
+  "name": "portfolioHost",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
