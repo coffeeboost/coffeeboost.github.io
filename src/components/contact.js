@@ -1,9 +1,6 @@
 import React from 'react';
-import GitHubIcon from '@material-ui/icons/GitHub';
-import LinkedInIcon from '@material-ui/icons/LinkedIn';
-import MailIcon from '@material-ui/icons/Mail';
 import { makeStyles } from '@material-ui/core/styles'
-import './index.css';
+import './../index.css';
 
 
 const useStyles = makeStyles(theme => ({
@@ -15,7 +12,7 @@ const useStyles = makeStyles(theme => ({
 function contactMe(){
   return `
   Second year computer science student looking for an internship to develop my skills as a software engineer.
-  Available for 4 months or 8 months starting May 2020. Contact me via email
+  Available for 4 months or 8 months starting May 2021. Contact me via email
   `
 }
 export default function Contact(){

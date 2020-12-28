@@ -1,7 +1,7 @@
 import React from 'react';
-import './index.css';
-import image from './image.png';
-import resume from './Resume.pdf';
+import './../index.css';
+import image from './../assets/me.png';
+import resume from './../assets/Resume.pdf';
 import Button from '@material-ui/core/Button';
 import { makeStyles } from '@material-ui/core/styles'
 
@@ -40,7 +40,7 @@ export default function About(){
               <img className={classes.picture} src={image} alt=""/>
                 <div>
                   <p>{aboutMe()}</p>
-                  <Button  variant="outlined"  href={resume} target="_blank">resume</Button>
+                  <Button variant="contained" color="secondary" href={resume} target="_blank">resume</Button>
                 </div>
               </div>
         </div>
