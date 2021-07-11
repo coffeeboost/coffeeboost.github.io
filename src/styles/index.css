@@ -29,6 +29,10 @@ code {
     monospace;
 }
 
+.MuiSvgIcon-root:hover {
+  color:#5fc3e4;
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;

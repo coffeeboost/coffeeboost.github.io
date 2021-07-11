@@ -1,3 +1,4 @@
+import React from 'react';
 import Title from './title.js'
 import { contactMe } from '../assets/content.js'
 

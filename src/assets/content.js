@@ -5,9 +5,8 @@ import acoIMG from './../assets/aco.png';
 import c4IMG from './../assets/c4-1.png';
 import dashboardIMG from './../assets/dashboard.png';
 
-export const aboutMe = `I never knew what I wanted to do in my future, but with a strong background in math and science, 
-                        I quickly found myself studying Computer Science in University. It is a lucrative and fascinating 
-                        career but I will never stop being curious and learning everything.`
+export const aboutMe = `I'm passionate about A.I. and volunteer as the President of Carleton Artificial Intelligence Society. 
+                        I will never stop being curious and learning everything.`
 
 export const contactMe = `Third year computer science student looking for an internship to develop my skills as a software engineer.
                         Available for Summer 2022 internship. Contact me via email`
