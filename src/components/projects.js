@@ -7,17 +7,19 @@ import { makeStyles } from '@material-ui/core/styles'
 import { items } from '../assets/content.js'
 import Title from './title.js'
 
+const h = '70%'
+const w = '100%'
 const useStyles = makeStyles(theme => ({
     card: {
         padding: '0 60px',
     },
     image: {
-        height: '300px',
-        width: '500px'
+        height: h,
+        width: w,
     },
     square: {
-        height: '300px',
-        width: '300px'
+        height: h,
+        width: h
     }
 }))
 
