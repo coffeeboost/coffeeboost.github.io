@@ -1,0 +1,29 @@
+.picture {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin-right: 10%;
+}
+
+.blue {
+    display: flex;
+    justify-content: center;
+    border-bottom: 5px solid #5fc3e4;
+}
+
+.red {
+    display: flex;
+    justify-content: center;
+    border-bottom: 5px solid #e55d87;
+}
+
+.badge {
+    height: 2rem;
+    margin-bottom: 50px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin: 0% 10%;
+}

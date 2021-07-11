@@ -1,8 +1,13 @@
-html, body, #root, .App {
+html,
+body,
+#root,
+.App {
   height: 100%;
-  /* background: #5fc3e4; */
+  background: black;
+  color: rgb(249, 249, 223);
 }
-.title{
+
+.title {
   text-align: center;
 }
 
@@ -15,6 +20,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+#root {
+  padding: 5% 10%;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
@@ -24,7 +33,8 @@ code {
   font-family: 'Material Icons';
   font-weight: normal;
   font-style: normal;
-  font-size: 24px;  /* Preferred icon size */
+  font-size: 24px;
+  /* Preferred icon size */
   display: inline-block;
   line-height: 1;
   text-transform: none;
