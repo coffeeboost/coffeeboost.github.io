@@ -1,7 +1,7 @@
 {
   "homepage": "http://coffeeboost.github.io/",
   "name": "portfolioHost",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.1",
